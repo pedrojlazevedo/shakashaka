@@ -1,4 +1,4 @@
-# shakashaka
+# Shakashaka
 
 > University project made for FEUP, MIEIC (PLOG).
 
